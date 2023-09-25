@@ -23,7 +23,7 @@ export const completeProfile = async (req, res) => {
 
     const last_name = req.body.last_name;
     const email = req.body.email;
-    const age = req.body.age;
+    const age = parseInt(req.body.age, 10);
     const password = createHash(req.body.password);
 
     try {
