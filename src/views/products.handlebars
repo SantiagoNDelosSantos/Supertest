@@ -1,0 +1,65 @@
+<div class="container">
+
+    <div class="logoSession">
+
+        <a href="/products"><img src="https://i.ibb.co/hd9vsgK/Logo-BK-Grande.png" alt="Logo-BK-Grande" border="0" class="logoGRD"></a>
+
+        <div>
+
+            <a href="/chat"><img src="https://i.ibb.co/ftwkrSb/png-transparent-email-computer-icons-message-icon-design-bass-miscellaneous-angle-black-1-1.png"  alt="login" border="0" class="logoS"></a>
+
+            <a href="api/sessions/profile"><img src="https://i.ibb.co/Kxb8GDb/login.png" alt="login" border="0" class="logoS"></a>
+
+            <a href="https://imgbb.com/"><img src="https://i.ibb.co/f8TCwG1/VIP-modified.png" alt="VIP-modified" border="0" class="logoS"></a>
+
+            <a href="/cart"><img src="https://i.ibb.co/8DFrsw8/cart1.png" alt="cart" border="0" class="logoS"></a>
+
+        </div>
+        
+    </div>
+    
+    <h1>Filtros:</h1>
+
+    <table id="tableFil" class="table">
+
+        <thead>
+            <tr>
+                <th>Limit</th>
+                <th>Page</th>
+                <th>Sort</th>
+                <th>Filtro</th>
+                <th>Filtro Valor</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+
+                <td><input type="text" id="limit" placeholder="Indicar Limit" /></td>
+
+                <td><input type="text" id="page" placeholder="Indicar Page" /></td>
+
+                <td><input type="text" id="sort" placeholder="1 / -1" /></td>
+
+                <td><input type="text" id="filtro" placeholder="category / stock" /></td>
+
+                <td><input type="text" id="filtroVal" placeholder="Indicar Valor de Filtro" /></td>
+
+            </tr>
+
+        </tbody>
+
+    </table>
+
+    <h1>Catálogo en tiempo real:</h1>
+
+    <table id="tableProd" class="table">
+    </table>
+
+    <div id="Pags"></div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/main.js" type="module"></script>

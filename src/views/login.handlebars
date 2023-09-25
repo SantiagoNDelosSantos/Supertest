@@ -1,0 +1,39 @@
+<div class="Session">
+
+    <div class="divLogo">
+        <img src="https://i.ibb.co/hd9vsgK/Logo-BK-Grande.png" alt="Logo-BK-Grande" border="0" class="logoGRD">
+    </div>
+
+    <h1>Login:</h1>
+
+    <form id="loginForm">
+
+        <br />
+
+        <input type="email" placeholder="Correo" name="email" required>
+
+        <br />
+
+        <input type="password" placeholder="Contraseña" name="password" required>
+
+        <br />
+
+        <input class="boton" type="submit">
+
+    </form>
+
+    <br />
+    <br />
+
+    <a href="/api/sessions/github"><button class="boton" style=" border-radius: 1em;">Entrar con GitHub</button></a>
+
+    <br />
+
+    <p>¿Has olvidado tu contraseña? <a href="/requestResetPassword">Reestablecer tu contraseña</a></p>
+
+    <p>¿No estás registrado? <a href="/register">Regístrate aquí</a></p>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/js/login.js"></script>

@@ -1,0 +1,86 @@
+[
+	{
+		"title": "Alienware - M17",
+		"description": "EL MODELO M17 DE ALIENWARE, CUENTA CON UN PROCESADOR AMD RYZEN 7, UNA TARJETA GRÁFICA NVIDIA RTX 3070 TI, 16 GB DE MEMORIA RAM, UN ALMACENAMIENTO INTERNO DE 512GB Y UNA PANTALLA DE 17,30” A UNA RESOLUCIÓN DE 2560X1440.",
+		"code": "ALWm17",
+		"price": 3000,
+		"status": true,
+		"stock": 7,
+		"category": "Laptop",
+		"thumbnails": [
+			"https://i.ibb.co/YD9XHps/Alienware-M17-P1.png",
+			"https://i.ibb.co/k3Lt1qh/Alienware-M17-P3.png"
+		],
+		"id": "5844721b-d4f4-426b-9adf-70339fd47dd2"
+	},
+	{
+		"title": "DELL - G16",
+		"description": "EL MODELO NEW G16 DE LA EMPRESA DELL, CUENTA CON UN PROCESADOR INTEL CORE I7 DE 13GEN, UNA TARJETA GRÁFICA NVIDIA RTX 4050, 16 GB DE MEMORIA RAM, UN ALMACENAMIENTO INTERNO DE 512GB Y UNA PANTALLA DE 16” A UNA RESOLUCIÓN DE 2560X1600. ",
+		"code": "DELLg16",
+		"price": 2800,
+		"status": true,
+		"stock": 6,
+		"category": "Laptop",
+		"thumbnails": [
+			"https://i.ibb.co/C79MXjv/Dell-New-G16-P1.png",
+			"https://i.ibb.co/sPw21Ws/Dell-New-G16-P3.png"
+		],
+		"id": "ba0f4c40-f41b-4898-9f57-bb2b2bb8e981"
+	},
+	{
+		"title": "MSI - Prestige 14",
+		"description": "EL MODELO PRESTIGE 14 DE MSI, CUENTA CON UN PROCESADOR INTEL CORE I7 DE 11GEN, UNA TARJETA GRÁFICA NVIDIA RTX 1650, 16 GB DE MEMORIA RAM, UN ALMACENAMIENTO INTERNO DE 1TB Y UNA PANTALLA DE 14” A UNA RESOLUCIÓN DE 1920X1080.",
+		"code": "MSIpres14",
+		"price": 4000,
+		"status": true,
+		"stock": 5,
+		"category": "Laptop",
+		"thumbnails": [
+			"https://i.ibb.co/VjpN921/MSI-Prestige-14-P1.png",
+			"https://i.ibb.co/WtQfBY7/MSI-Prestige-14-P3.png"
+		],
+		"id": "3b4e3dc5-44ed-4b44-9848-619442b4bda0"
+	},
+	{
+		"title": "MSI - All Sword 15",
+		"description": "EL MODELO ALL SWORD 15 DE MSI, CUENTA CON UN PROCESADOR INTEL CORE I7 DE 11GEN, UNA TARJETA GRÁFICA NVIDIA RTX 3050 TI, 8 GB DE MEMORIA RAM, UN ALMACENAMIENTO INTERNO DE 512GB Y UNA PANTALLA DE 15,60” A UNA RESOLUCIÓN DE 1920X1080.",
+		"code": "MSIallSW15",
+		"price": 4500,
+		"status": true,
+		"stock": 3,
+		"category": "Laptop",
+		"thumbnails": [
+			"https://i.ibb.co/9vt81Y6/MSI-A11-Sword-15-P1.png ",
+			"https://i.ibb.co/HKT4nBb/MSI-A11-Sword-15-P3.png"
+		],
+		"id": "80bf8b1f-6f43-496e-8431-221ceccc5731"
+	},
+	{
+		"title": "ASUS - Rog Strixg G15",
+		"description": "EL MODELO ROG STRIX G15 DE ASUS, CUENTA CON UN PROCESADOR AMD RYZEN 7, UNA TARJETA GRÁFICA NVIDIA RTX 2060, 16 GB DE MEMORIA RAM, UN ALMACENAMIENTO INTERNO DE 1TB Y UNA PANTALLA DE 15,60” A UNA RESOLUCIÓN DE 1920X1080.",
+		"code": "ASUSrgStxgG15",
+		"price": 3600,
+		"status": true,
+		"stock": 8,
+		"category": "Laptop",
+		"thumbnails": [
+			"https://i.ibb.co/4Fz4wyc/Asus-Rog-Strix-G15-P1.png",
+			"https://i.ibb.co/VmYr19b/Asus-Rog-Strix-G15-P3.png"
+		],
+		"id": "560c4c1f-b7f3-49e0-ad5e-1a93854aa68b"
+	},
+	{
+		"title": "Alienware - M18",
+		"description": "EL MODELO M18 DE ALIENWARE, CUENTA CON UN PROCESADOR INTEL CORE I7 DE 13GEN, UNA TARJETA GRÁFICA NVIDIA RTX 4060, 16 GB DE MEMORIA RAM, UN ALMACENAMIENTO INTERNO DE 512GB Y UNA PANTALLA DE 18” A UNA RESOLUCIÓN DE 2560X1600.",
+		"code": "AlienM18",
+		"price": 5700,
+		"status": true,
+		"stock": 4,
+		"category": "Laptop",
+		"thumbnails": [
+			"https://i.ibb.co/9tHtYPQ/Alienware-M18-P1.png",
+			"https://i.ibb.co/StkwyHq/Alienware-M18-P3.png"
+		],
+		"id": "fd4b8c89-8cbb-4ea7-adca-b6cad71e4445"
+	}
+]

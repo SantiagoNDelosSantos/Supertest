@@ -1,0 +1,42 @@
+<div class="container">
+
+    <div id="head">
+        <h1>Carrito:</h1>
+    </div>
+
+    <table id="tableCarts" class="table">
+
+        <thead>
+            <tr>
+                <th>Modelo</th>
+                <th>Img Front</th>
+                <th>Stock</th>
+                <th>Unds. a comprar</th>
+                <th>Precio x Und.</th>
+                <th>Subtotal</th>
+                <th>Eliminar del carrito</th>
+            </tr>
+        </thead>
+
+        <tbody id="tableProdCartID"></tbody>
+
+    </table>
+
+    <div id="cierreCompra">
+     <br />
+        <br />
+        
+        <h2>Total a pagar:<span id="totalPrice">0</span></h2>
+        
+        <br />
+
+        <h2 id="finalizarCompraBtn" class="boton" id="finalizarCompra">Finalizar Compra</h2>
+        <br />
+    </div>
+
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/cart.js" type="module"></script>
